@@ -1,2 +1,2 @@
 # hello-world
-This is my first attempt at github repository
+This is now a description of something I made in a branch called my edits, so later on will be merged with the master
